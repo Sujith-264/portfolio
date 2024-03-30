@@ -1,0 +1,8 @@
+@tailwind base;
+@layer base {
+	body {
+		@apply bg-gradient-to-b
+            dark:from-gray-900 dark:via-gray-900 dark:to-transparent
+            from-white via-white to-transparent;
+	}
+}
