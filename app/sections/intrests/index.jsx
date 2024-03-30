@@ -8,19 +8,19 @@ const interestsData = [
   {
     id: 1,
     title: "UI / UX Design",
-    icon: "/assets/card1.svg",
+    icon: "./assets/card1.svg",
     description: "Passionate about crafting intuitive and visually appealing user experiences to enhance digital interactions.",
   },
   {
     id: 2,
     title: "Data Analytics",
-    icon: "/assets/card2.svg",
+    icon: "./assets/card2.svg",
     description: " Proficient in extracting valuable insights from data, employing statistical analysis and visualization techniques to inform strategic decision-making.   ",
   },
   {
     id: 3,
     title: "Data Science",
-    icon: "/assets/card3.svg",
+    icon: "./assets/card3.svg",
     description: "Dedicated to leveraging advanced analytics and machine learning to extract meaningful patterns from complex datasets, contributing to data-driven solutions and innovation.",
   },
 ];

@@ -74,7 +74,7 @@ export function AboutSection() {
         <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
           <div className="md:order-last flex justify-end">
             <video width="640" height="360" autoPlay muted>
-              <source src="/assets/About.mp4" type="video/mp4" />
+              <source src="./assets/About.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
