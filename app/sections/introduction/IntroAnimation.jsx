@@ -13,7 +13,7 @@ export function WelcomeAnimation() {
   // Replace the SVG paths with your picture frame
   const pictureFrame = (
 	<Image
-	src="https://github.com/Sujith-264/portfolio/blob/main/public/DP.jpg?raw=true" // Update with the correct file path of your image
+	src="https://raw.githubusercontent.com/Sujith-264/portfolio/main/public/DP.jpg" // Update with the correct file path of your image
 	alt="Your Image"
 	width={300}
 	height={300}
