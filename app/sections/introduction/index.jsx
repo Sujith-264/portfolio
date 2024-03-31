@@ -113,7 +113,7 @@ export function WelcomeSection() {
               }}
             >
               <Link
-                href="https://drive.google.com/file/d/1BDJYzjFkrLQQH0IBWG8kthL_DLl14vUi/view?usp=sharing"
+                href="https://drive.google.com/file/d/1rSba8-BkqFXywwjuORqA4DFTcObAfPzj/view?usp=sharing"
                 className="btn"
                 aria-label="Resume"
                 target="_blank"
