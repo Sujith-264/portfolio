@@ -30,7 +30,7 @@ const ConnectMe = () => {
   const githubLink = "https://github.com/Sujith-264/";
   const discordHandle = "_.carnage._";
   const instagramHandle = "/vs._.chowdary";
-  const facebookHandle = "https://www.facebook.com/profile.php?id=100011805844740&mibextid=ZbWKwL";
+  const facebookHandle = "profile.php?id=100011805844740&mibextid=ZbWKwL";
 
   return (
     <section id="connect" className="mb-10">
