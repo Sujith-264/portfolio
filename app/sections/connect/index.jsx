@@ -29,7 +29,7 @@ const ConnectMe = () => {
   const linkedinLink = "https://www.linkedin.com/in/sujith-vankayalapati/";
   const githubLink = "https://github.com/Sujith-264/";
   const discordHandle = "_.carnage._";
-  const instagramHandle = "https://www.instagram.com/vs._.chowdary/";
+  const instagramHandle = "https://www.instagram.com/vs._.chowdary?igsh=amZ5bzUwOW1qMDFi/";
   const facebookHandle = "https://www.facebook.com/profile.php?id=100011805844740&mibextid=ZbWKwL";
 
   return (
